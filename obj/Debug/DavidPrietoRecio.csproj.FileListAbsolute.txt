@@ -1,0 +1,14 @@
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\bin\Debug\DavidPrietoRecio.exe.config
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\bin\Debug\DavidPrietoRecio.exe
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\bin\Debug\DavidPrietoRecio.pdb
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.FormPrincipal.resources
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.Properties.Resources.resources
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.csproj.GenerateResource.Cache
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.exe
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.pdb
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.FormRegCintas.resources
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.FormBuqueda.resources
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.FormAlta.resources
+c:\users\usuario\source\repos\DavidPrietoRecio\DavidPrietoRecio\obj\Debug\DavidPrietoRecio.FormMovimientos.resources
